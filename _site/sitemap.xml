@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/creating-an-image-resize-tool-with-python/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docker-cheatsheet/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-to-install-cups-ubuntu-20.04/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-to-set-up-cloudflare-tunnels-ubuntu-20.04/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nginx-configuration-ubuntu-20.04/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/securing-ssh-on-ubuntu-20.04/</loc>
+<lastmod>2022-04-13T12:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
@@ -10,9 +34,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+<loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/reading-list/</loc>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 </urlset>
