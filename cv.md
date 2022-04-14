@@ -4,5 +4,6 @@ permalink: /cv/
 layout: page
 excerpt: 
 comments: false
+pdf_file: "/Profile.pdf"
 ---
- {% pdf "https://www.esd.whs.mil/Portals/54/RDD%20Guidance%20for%20Converting%20Emails%20to%20PDF%20Format.pdf" width=40rem height=40rem %}
+ {% pdf {{ page.pdf_file }} no_link height=40rem %}
