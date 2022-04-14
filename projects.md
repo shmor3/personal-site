@@ -9,7 +9,7 @@ comments: false
 <a href="https://foxrundelivery.com">foxrun delivery</a><br/>
 <a href="https://candycoloredclothing.com">candy colored clothing</a><br/>
 <a href="https://quantiz.io.com">quantize.io</a><br/>
-<a href="https://github.com/shmor3">python logo download & resizer</a><br/>
+<a href="/creating-an-image-resize-tool-with-python/">python logo download & resizer w/http proxy</a><br>
 <a href="/">music</a><br/>
 <a href="/">design</a><br/>
-<a href="/">reading list</a><br/>
+<a href="/readinglist">reading list</a><br/>
