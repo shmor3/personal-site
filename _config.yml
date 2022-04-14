@@ -1,5 +1,5 @@
 # Site settings
-title: Robert Stanford # site title
+title: robert # site title
 description: >- # site description
   Hi.
 lang: en-US # default lang
@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Robert Stanford # author name
+  name: robert # author name
   bio: >- # tell to the world
    -
   username: robertandstuff # general username
