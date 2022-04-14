@@ -1,8 +1,7 @@
 ---
 title: CV
-permalink: /cv/
+permalink: /cv
 layout: page
 excerpt: 
 comments: false
 ---
-
