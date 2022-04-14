@@ -1,6 +1,6 @@
 ---
 title: Reading List
-permalink: /reading-list
+permalink: /reading-list/
 layout: page
 excerpt: 
 comments: false

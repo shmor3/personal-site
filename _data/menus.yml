@@ -3,11 +3,11 @@
   external: false
 
 - title: blog
-  url: /blog
+  url: /blog/
   external: false
 
 - title: cv
-  url: /cv
+  url: /cv/
   external: false # set true if you using external link, see below
 
 # Example:
