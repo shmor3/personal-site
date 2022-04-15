@@ -5,4 +5,4 @@ layout: page
 excerpt: 
 comments: false
 ---
-<p style="text-align: right;"><a href="/pdf/">View PDF Version</a></p>
+<div style="text-align: right;" id="journey"><a href="/pdf/#cv">View PDF Version</a></div>
