@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: projects
-  url: /projects/
+- title: /
+  url: /
   external: false
 
 - title: blog
