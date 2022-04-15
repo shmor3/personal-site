@@ -11,7 +11,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: robert stanford # author name
   bio: >- # tell to the world
-   Endlessly Curious 🔍  Extremely Ambitious 🚀  Extraordinarily Adventurous 🧭  Avid Learner 📚 <br/>Proven Technology & Customer Service Background.<br/>
+   Endlessly Curious 🔍  Extremely Ambitious 🚀  Extraordinarily Adventurous 🧭  Avid Learner 📚 <br/>
+   <span style="color: green;">Proven Technology & Customer Service Background</span><br/>
   username: robertandstuff # general username
   github: shmor3 # github username
   twitter: robertandstuff_ # twitter username
