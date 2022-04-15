@@ -190,7 +190,7 @@
   }
 
   .author-avatar {
-    height: 100rem;
+    height: 10rem;
     border-radius: 100%;
     user-select: none;
     background-color: $black;
@@ -198,7 +198,7 @@
     -webkit-user-select: none;
     -webkit-animation: 0.5s ease-in forwards fadein;
     animation: 0.5s ease-in forwards fadein;
-    opacity: 0.2;
+    opacity: 1;
   }
 
   .author-name {
