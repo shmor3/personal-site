@@ -1,35 +1,3 @@
 [
   
-    {
-      "title"    : "how to secure ssh on ubuntu 20.04",
-      "description" : "how to secure ssh on ubnutu 20.04",
-      "tags"     : "ubuntu, security",
-      "url"      : "/securing-ssh-on-ubuntu-20.04/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } ,
-  
-    {
-      "title"    : "nginx configuration ubuntu 20.04",
-      "description" : "how to configre nginx on ubuntu 20.04",
-      "tags"     : "security, software, ubuntu",
-      "url"      : "/nginx-configuration-ubuntu-20.04/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } ,
-  
-    {
-      "title"    : "how to setup cloudflare tunnels on ubuntu 20.04",
-      "description" : "how to setup cloudflare tunnel on ubuntu 20.04",
-      "tags"     : "ubuntu, software",
-      "url"      : "/how-to-set-up-cloudflare-tunnels-ubuntu-20.04/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } ,
-  
-    {
-      "title"    : "creating an imagage rsize tool with python",
-      "description" : "creating an image resize tool in python using pillow",
-      "tags"     : "python, software",
-      "url"      : "/creating-an-image-resize-tool-with-python/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } 
-  
 ]
