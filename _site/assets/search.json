@@ -25,22 +25,6 @@
     } ,
   
     {
-      "title"    : "how to install cups on ubuntu 20.04",
-      "description" : "how to install cups print server on unbut 20.04",
-      "tags"     : "ubuntu, software",
-      "url"      : "/how-to-install-cups-ubuntu-20.04/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } ,
-  
-    {
-      "title"    : "docker cheatsheet",
-      "description" : "cheatsheet for docker commands",
-      "tags"     : "docker, software",
-      "url"      : "/docker-cheatsheet/",
-      "date"     : "2022-04-13 12:00:00 -0600"
-    } ,
-  
-    {
       "title"    : "creating an imagage rsize tool with python",
       "description" : "creating an image resize tool in python using pillow",
       "tags"     : "python, software",
