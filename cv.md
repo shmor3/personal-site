@@ -1,9 +1,8 @@
 ---
-title: CV
+title: cv
 permalink: /cv/
 layout: page
 excerpt: 
 comments: false
-pdf_file: "https://agroecology.ucsc.edu/about/publications/Teaching-Direct-Marketing/pdf%20downloads/Unit.5.pdf"
 ---
- {% pdf {{ page.pdf_file }} no_link height=40rem %}
+<p style="text-align: right;"><a href="/pdf/">View PDF Version</a></p>
