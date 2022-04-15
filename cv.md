@@ -1,5 +1,5 @@
 ---
-title: cv
+title: CV
 permalink: /cv/
 layout: page
 excerpt: 

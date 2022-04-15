@@ -1,5 +1,5 @@
 ---
-title: pdf
+title: PDF
 permalink: /pdf/
 layout: page
 excerpt: 

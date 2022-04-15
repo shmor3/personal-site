@@ -1,5 +1,5 @@
 # Site settings
-title: robert # site title
+title: Robert # site title
 description: >- # site description
   Robert Stanford, Personal Website
 timezone: America/Denver # set your timezone
@@ -9,9 +9,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: robert stanford # author name
+  name: Robert Stanford # author name
   bio: >- # tell to the world
-    <a href="/">extraordinarily Curious 🔍 </a>| <a href="/projects"">Extremely Ambitious 🚀  </a><br/><span style="color: green;"><a href="/cv/">Proven Technology & Customer Service Background</a></span><br/>
+    <a href="/">Extraordinarily Curious 🔍 </a>| <a href="/projects"">Extremely Ambitious 🚀  </a><br/><span style="color: green;"><a href="/cv/">Proven Technology & Customer Service Background</a></span><br/>
   username: robertandstuff # general username
   github: shmor3 # github username
   twitter: robertandstuff_ # twitter username
