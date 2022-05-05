@@ -1,27 +1,3 @@
 [
   
-    {
-      "title"    : "rstanford.com | website",
-      "description" : "",
-      "tags"     : "development, design",
-      "url"      : "/rstanford.com/",
-      "date"     : "2022-04-07 10:04:00 -0600"
-    } ,
-  
-    {
-      "title"    : "Stanford Repair - Computer Repair Company | Company",
-      "description" : "",
-      "tags"     : "business",
-      "url"      : "/stanfordrepair/",
-      "date"     : "2020-04-07 10:04:00 -0600"
-    } ,
-  
-    {
-      "title"    : "Foxrun Delivery - Food + Parcel Delivery &amp; Car Rental Company | Company",
-      "description" : "",
-      "tags"     : "business, marketing",
-      "url"      : "/foxrundelivery/",
-      "date"     : "2020-04-07 10:04:00 -0600"
-    } 
-  
 ]
