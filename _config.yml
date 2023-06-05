@@ -1,7 +1,7 @@
 # Site settings
 title: Robert # site title
 description: >- # site description
-  Robert Stanford, Personal Website
+  Personal Website
 timezone: America/Denver # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/shmor3/personal-site # site repo [optional]
