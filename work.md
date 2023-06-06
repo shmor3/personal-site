@@ -4,9 +4,10 @@ title: Work
 permalink: /work/
 ---
 
-<div style="display: flex; justify-content: center; align-items: center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <form action="https://forms.rstanford.com/$submit" method="POST">
     <div style="display: flex; flex-direction: row; align-content: stretch;">
+    
       <input
         style="
           padding: 1em 1.5em;
@@ -64,7 +65,6 @@ permalink: /work/
           padding: 1em 1.5em;
           border: 1px solid #e5e5e5;
           border-radius: 300px;
-          margin-bottom: 1em;
           resize: none;
         "
         name="message"
