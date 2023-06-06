@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-<div class="wrapper">
+<div class="form-wrapper">
   <form action="http://127.0.0.1:9387/$submit" method="POST">
     <div class="form-contact">
       <input
@@ -50,3 +50,45 @@ permalink: /work/
     </div>
   </form>
 </div>
+
+<style>
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .form-contact {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+  }
+  .form-info {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+  }
+  .form-input {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    margin-bottom: 1em;
+    resize: none;
+  }
+  .form-text {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    resize: none;
+  }
+  .form-button {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    background-color: #e5e5e5;
+  }
+  .form-button:hover {
+    background-color: #fd6a6a;
+    cursor: pointer;
+  }
+
+</style>
