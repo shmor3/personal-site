@@ -4,15 +4,16 @@ title: Work
 permalink: /work/
 ---
 
-  <div style="display: flex; justify-content: center; align-items: center; width: 75vw;">
-    <form action="https://forms.rstanford.com/$submit" method="POST">
+<div style="display: flex; justify-content: center; align-items: center">
+  <form action="https://forms.rstanford.com/$submit" method="POST">
+    <div style="display: flex; flex-direction: row; align-content: stretch;">
       <input
         style="
           padding: 1em 1.5em;
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 33%;
+          margin-right: 1em;
         "
         type="text"
         name="name"
@@ -25,7 +26,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 33%;
+          margin-right: 1em;
         "
         type="email"
         name="email"
@@ -38,20 +39,20 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 33%;
         "
         type="text"
         name="company"
         placeholder="Company"
         required
       />
+    </div>
+    <div style="display: flex; flex-direction: column; align-content: stretch;">
       <input
         style="
           padding: 1em 1.5em;
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 100%;
         "
         type="text"
         name="subject"
@@ -64,7 +65,6 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 100%;
           resize: none;
         "
         name="message"
@@ -77,11 +77,11 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 100%;
         "
         type="submit"
       >
         Send
       </button>
-    </form>
-  </div>
+    </div>
+  </form>
+</div>
