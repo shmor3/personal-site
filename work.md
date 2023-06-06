@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 <div class="form-wrapper">
-  <form action="http://127.0.0.1:9387/$submit" method="POST">
+  <form action="https://forms.rstanford.com/$submit" method="POST">
     <div class="form-contact">
       <input
         class="form-input"
