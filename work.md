@@ -3,8 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-
-<div class="form-wrapper">
+<div class="wrapper">
   <form action="http://127.0.0.1:9387/$submit" method="POST">
     <div class="form-contact">
       <input
@@ -52,7 +51,7 @@ permalink: /work/
 </div>
 
 <style>
-.form-wrapper {
+  .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,5 +89,4 @@ permalink: /work/
     background-color: #fd6a6a;
     cursor: pointer;
   }
-
 </style>
