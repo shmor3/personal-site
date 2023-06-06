@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-  <div style="display: flex; justify-content: center; align-items: center">
+  <div style="display: flex; justify-content: center; align-items: center; width: 75vw;">
     <form action="https://forms.rstanford.com/$submit" method="POST">
       <input
         style="
@@ -12,7 +12,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 25%;
+          width: 33%;
         "
         type="text"
         name="name"
@@ -25,7 +25,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 25%;
+          width: 33%;
         "
         type="email"
         name="email"
@@ -38,7 +38,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 25%;
+          width: 33%;
         "
         type="text"
         name="company"
@@ -51,7 +51,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 76%;
+          width: 100%;
         "
         type="text"
         name="subject"
@@ -64,7 +64,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 76%;
+          width: 100%;
           resize: none;
         "
         name="message"
@@ -77,7 +77,7 @@ permalink: /work/
           border: 1px solid #e5e5e5;
           border-radius: 300px;
           margin-bottom: 1em;
-          width: 76%;
+          width: 100%;
         "
         type="submit"
       >
