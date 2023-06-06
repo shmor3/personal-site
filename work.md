@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
   <div style="display: flex; justify-content: center; align-items: center">
-    <form action="{form-endpoint}" method="POST">
+    <form action="https://forms.rstanford.com/$submit" method="POST">
       <input
         style="
           padding: 1em 1.5em;
