@@ -1,8 +1,8 @@
 ---
-title: Resume
-permalink: /Resume/
+title: resume
+permalink: /resume/
 layout: page
 excerpt: 
 comments: false
 ---
-<div style="text-align: right;" id="journey"><a href="/pdf/#Resume">View PDF Version</a></div>
+<div style="text-align: right;" id="journey"><a href="/resume/pdf/#">View PDF Version</a></div>

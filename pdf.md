@@ -1,6 +1,6 @@
 ---
 title: PDF
-permalink: /pdf/
+permalink: /resume/pdf/
 layout: page
 excerpt: 
 comments: false
