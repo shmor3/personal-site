@@ -4,84 +4,90 @@ title: Work
 permalink: /work/
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <form action="https://forms.rstanford.com/$submit" method="POST">
-    <div style="display: flex; flex-direction: row; align-content: stretch;">
-    
+<div class="wrapper">
+  <form action="http://127.0.0.1:9387/$submit" method="POST">
+    <div class="form-contact">
       <input
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          margin-bottom: 1em;
-          margin-right: 1em;
-        "
+        class="form-input"
+        style="margin-right: 1em"
         type="text"
         name="name"
         placeholder="Name"
         required
       />
       <input
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          margin-bottom: 1em;
-          margin-right: 1em;
-        "
+        class="form-input"
+        style="margin-right: 1em"
         type="email"
         name="email"
         placeholder="Email"
         required
       />
       <input
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          margin-bottom: 1em;
-        "
+        class="form-input"
         type="text"
         name="company"
         placeholder="Company"
         required
       />
     </div>
-    <div style="display: flex; flex-direction: column; align-content: stretch;">
+    <div class="form-info">
       <input
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          margin-bottom: 1em;
-        "
+        class="form-input"
         type="text"
         name="subject"
         placeholder="Subject"
         required
       />
       <textarea
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          resize: none;
-        "
+        class="form-text"
+        rows="10"
         name="message"
         placeholder="Message"
         required
       ></textarea>
-      <br /><button
-        style="
-          padding: 1em 1.5em;
-          border: 1px solid #e5e5e5;
-          border-radius: 300px;
-          margin-bottom: 1em;
-        "
-        type="submit"
-      >
-        Send
-      </button>
+      <br /><button class="form-button" type="submit">Send</button>
     </div>
   </form>
 </div>
+
+<style>
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .form-contact {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+  }
+  .form-info {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+  }
+  .form-input {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    margin-bottom: 1em;
+    resize: none;
+  }
+  .form-text {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    resize: none;
+  }
+  .form-button {
+    padding: 1em 1.5em;
+    border: 1px solid #e5e5e5;
+    border-radius: 1rem;
+    background-color: #e5e5e5;
+  }
+  .form-button:hover {
+    background-color: #fd6a6a;
+    cursor: pointer;
+  }
+</style>
