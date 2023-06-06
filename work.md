@@ -87,7 +87,8 @@ permalink: /work/
     background-color: #e5e5e5;
   }
   .form-button:hover {
-    background-color: #fd6a6a;
+    border: 1px solid #ff5277;
+    background-color: #ff5277;
     cursor: pointer;
   }
 </style>
