@@ -1,5 +1,5 @@
 ---
-title: resume
+title: Resume
 permalink: /resume/
 layout: page
 excerpt: 
