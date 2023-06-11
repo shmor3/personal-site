@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Contact
+permalink: /contact/
 ---
 
 <div class="form-wrapper">
