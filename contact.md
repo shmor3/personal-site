@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div class="form-wrapper">
-  <form action="https://forms.rstanford.com/$submit" method="POST">
+  <form action="{{ site.form-endpoint }}" method="POST">
     <div class="form-contact">
       <input
         class="form-input"
