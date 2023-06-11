@@ -1,7 +1,7 @@
 ---
-title: Python Proxy
+title: Simple proxy written in python
 date: 2022-10-14 09:29:00 +07:00
-tags: [development, python]
+tags: [software development, python]
 description: 
 ---
 
