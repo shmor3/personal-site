@@ -20,7 +20,7 @@ author:
 
 # URL settings
 url: "https://rstanford.com" #
-baseurl: "https://rstanford.com"
+baseurl: ""
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
