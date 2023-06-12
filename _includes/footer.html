@@ -1,5 +1,8 @@
 <footer class="footer">
-  {%- if page.url != '/contact/' -%}
+  {%- if page.url == '/' -%}
+  <a class="footer-link" href="/contact">Work with me</a>
+  {%- endif -%}
+  {%- if page.url == '/blog/' -%}
   <a class="footer-link" href="/contact">Work with me</a>
   {%- endif -%}
   {%- if page.url == '/contact/' -%}
