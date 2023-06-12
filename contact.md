@@ -48,11 +48,6 @@ permalink: /contact/
       <br /><button class="form-button" type="submit">Send</button>
     </div>
   </form>
-    <span>
-    <a style="padding-right: 7px !important;" href="https://github.com/shmor3"><img class="social-media-darkmode" src="../media/GitHub-Mark-64px.png" height="25rem" alt="github"/></a>
-    <a href="https://www.linkedin.com/in/robertestanford/"><img class="social-media" src="../media/LI-In-Bug.png" height="23rem" alt="linkedin"/></a>
-    <a href="mailto:contact@rstanford.com"><img class="social-media-darkmode" src="../media/586624.png" height="25rem" alt="email"/></a>
-  </span>
 </div>
 
 <style>

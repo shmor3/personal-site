@@ -1,5 +1,15 @@
 <footer class="footer">
+  {%- if page.url != '/contact' -%}
   <a class="footer-link" href="/contact">Work with me</a>
+  {%- endif -%}
+  {%- if page.url == 'contact' -%}
+  <span>
+    <a style="padding-right: 6px !important;" href="https://github.com/shmor3"><img class="social-media-darkmode" src="../media/GitHub-Mark-64px.png" height="25rem" alt="github"/></a>
+    <a href="https://www.linkedin.com/in/robertestanford/"><img class="social-media" src="../media/LI-In-Bug.png" height="23rem" alt="linkedin"/></a>
+    <a href="mailto:contact@rstanford.com"><img class="social-media-darkmode" src="../media/586624.png" height="25rem" alt="email"/></a>
+  </span>
+  {%- endif -%}
+
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
 
