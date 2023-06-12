@@ -1,4 +1,4 @@
-I"<<div class="form-wrapper">
+I"K<div class="form-wrapper">
   <form action="https://forms.rstanford.com/$submit" method="POST">
     <div class="form-contact">
       <input class="form-input" style="margin-right: 1em" type="text" name="name" placeholder="Name" required="" />
@@ -18,6 +18,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: ;
   }
   .form-contact {
     display: flex;

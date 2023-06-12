@@ -55,6 +55,7 @@ permalink: /contact/
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 80%;
   }
   .form-contact {
     display: flex;
