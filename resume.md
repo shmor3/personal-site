@@ -5,4 +5,21 @@ layout: page
 excerpt: 
 comments: false
 ---
-<div style="text-align: right;" id="journey"><a href="/resume/pdf/#!">View PDF Version</a></div>
+<div style="text-align: right;" class="pdf-resume">
+    <a href="/resume/pdf/#!">View PDF Version</a>
+</div>
+
+<div class="resume-wrapper">
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;        
+    }
+    .resume-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>

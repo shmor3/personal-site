@@ -1,0 +1,16 @@
+I"<div style="text-align: right;" class="pdf-resume" id="pdf-resume">
+    <a href="/resume/pdf/#!">View PDF Version</a>
+&lt;/div class="resume-wrapper"&gt;
+<div>
+
+</div>
+<style>
+    . pdf-resume {
+        text-align: right;        
+    }
+    .resume-wrapper {
+
+    }
+</style>
+</div>
+:ET
