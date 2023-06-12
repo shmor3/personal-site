@@ -12,7 +12,6 @@ author:
   name: Robert Stanford # author name
   bio: >- # tell to the world
     <span> Software Engineer | Full Stack Dev | DevOps </span><br/><span> "Be the pull request you wish to see in the world." <br/> ~Ben Balter </span><br/>
-  username: robertandstuff # general username
   github: shmor3 # github username
   twitter: robertandstuff_ # twitter username
   facebook: robertandstuff # facebook username
@@ -21,7 +20,7 @@ author:
 
 # URL settings
 url: "https://rstanford.com" #
-baseurl: ""
+baseurl: "https://rstanford.com"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
