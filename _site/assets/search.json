@@ -1,3 +1,35 @@
 [
   
+    {
+      "title"    : "Simple flask backend for handling form submissions",
+      "description" : "",
+      "tags"     : "web development, backend, python",
+      "url"      : "/simple-flask-form-backend/",
+      "date"     : "2023-06-06 03:24:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Auto trading with python and redis",
+      "description" : "",
+      "tags"     : "software development, algorithms, python",
+      "url"      : "/auto-trading/",
+      "date"     : "2022-10-18 02:32:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Simple proxy written in python",
+      "description" : "",
+      "tags"     : "software development, python",
+      "url"      : "/python_proxy/",
+      "date"     : "2022-10-14 02:29:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Personal site built with jekyll",
+      "description" : "",
+      "tags"     : "web development, frontend",
+      "url"      : "/pesonal-site/",
+      "date"     : "2022-04-07 16:04:00 +0000"
+    } 
+  
 ]
