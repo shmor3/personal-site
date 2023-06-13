@@ -1,0 +1,33 @@
+I"Š<div class="projects-wrapper">
+
+<div>
+    <h3>
+    
+    <a href="#">jazznotes.io</a>
+    </h3>
+    <h4>Founder &amp; Primary Developer  &bull; 2012 &mdash; Present</h4>
+    <p>Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.</p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="#">Springfield Community Outreach Group</a>
+    </h3>
+    <h4>Co-Founder &amp; Organizer  &bull; 2007 &mdash; Present</h4>
+    <p></p>
+</div>
+
+
+</div>
+
+<style>
+    .projects-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

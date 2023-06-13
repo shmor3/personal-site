@@ -1,0 +1,15 @@
+I"ÿ<div class="pdf-wrapper" id="!">
+    <style> .pdf-embed-wrap-a337132c-3c37-46ad-aba4-27c53d0e1e5d { display: flex; flex-direction: column; width: 100%; height: 100%; } .pdf-embed-container-a337132c-3c37-46ad-aba4-27c53d0e1e5d { height: 100%; } .pdf-embed-container-a337132c-3c37-46ad-aba4-27c53d0e1e5d iframe { width: 100%; height: 100%; } </style> <div class="pdf-embed-wrap-a337132c-3c37-46ad-aba4-27c53d0e1e5d"> <div class="pdf-embed-container-a337132c-3c37-46ad-aba4-27c53d0e1e5d"> <iframe src="/Stanford_Robert-Resume.pdf" frameborder="0" allowfullscreen=""></iframe> </div> </div>
+</div>
+
+<style>
+    .pdf-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100vh;
+    }
+</style>
+
+:ET
