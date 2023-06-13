@@ -1,9 +1,4 @@
----
-title: Resume
-permalink: /resume/
-layout: page
----
-<div style="text-align: right;" class="pdf-resume">
+I"o<div style="text-align: right;" class="pdf-resume">
     <a href="/resume/pdf">View PDF Version</a>
 </div>
 
@@ -22,3 +17,5 @@ layout: page
         flex-direction: column;
     }
 </style>
+
+:ET
