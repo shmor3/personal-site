@@ -2,25 +2,25 @@
   url: /
   external: false
 
-- title: Principles
-  url: /principles
-  external: false
+# - title: Principles
+#   url: /principles
+#   external: false
 
-- title: Process
-  url: /process
-  external: false
+# - title: Process
+#   url: /process
+#   external: false
 
-- title: Projects
-  url: /projects
-  external: false
+# - title: Projects
+#   url: /projects
+#   external: false
 
 - title: Blog
   url: /blog
   external: false
-  
-- title: About
-  url: /about
-  external: false 
+
+# - title: About
+#   url: /about
+#   external: false 
 
 - title: Work
   url: /work
