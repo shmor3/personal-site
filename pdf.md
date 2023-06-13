@@ -1,6 +1,6 @@
 ---
-title: Resume - PDF
-permalink: /resume/pdf
+title: Resume
+permalink: /work/resume
 layout: page
 pdf_file: "/Stanford_Robert-Resume.pdf"
 ---

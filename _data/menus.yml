@@ -2,16 +2,6 @@
   url: /
   external: false
 
-- title: Blog
-  url: /blog
-  external: false
-
-- title: About
-  url: /about
-  external: false 
-
-
-
 - title: Principles
   url: /principles
   external: false
@@ -23,9 +13,17 @@
 - title: Projects
   url: /projects
   external: false
+
+- title: Blog
+  url: /blog
+  external: false
   
-- title: Resume
-  url: /resume
+- title: About
+  url: /about
+  external: false 
+
+- title: Work
+  url: /work
   external: false
 
 - title: Contact

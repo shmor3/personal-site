@@ -29,7 +29,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resume/pdf</loc>
+<loc>http://localhost:4000/work/resume</loc>
 </url>
 <url>
 <loc>http://localhost:4000/principles/</loc>
@@ -41,10 +41,10 @@
 <loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resume/</loc>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+<loc>http://localhost:4000/work/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Stanford_Robert-Resume.pdf</loc>
