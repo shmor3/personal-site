@@ -1,0 +1,24 @@
+I"¼<div style="text-align: right;" class="pdf-resume">
+    <a href="/resume/pdf/#!">View PDF Version</a>
+</div>
+
+<div class="resume-wrapper">
+    <div></div>
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;        
+    }
+    .resume-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .vertical-dotted-line {
+        border-bottom: 1px dotted black;
+        width: 1em;
+}
+</style>
+
+:ET

@@ -1,0 +1,79 @@
+I"�<div style="text-align: right;" class="pdf-resume">
+    <a href="/resume/pdf/#!">View PDF Version</a>
+</div>
+
+<div class="resume-wrapper">
+<h2>Robert Stanford</h2>
+<p>Software Engineer with an Extensive Information Technology &amp; Operations Background</p>
+
+
+
+<p>Washington, DC 20016 | (719) 360-0164 | contact@rstanford.com |  rstanford.com | linkedin</p>
+
+
+
+<p>Trainings: Information Security Best Practices, Classified Information Handling, Google Project Management</p>
+<p>Technical Skills: Python, Node.js, React.js, JavaScript, TypeScript, Bash, SQL, GraphQL, PowerShell, HTML</p>
+<p>Frameworks &amp; Tools: Linux, Git, AWS, Azure, Google Cloud, Docker, Kubernetes, Django, Flask, Nest.js</p>
+
+
+
+
+Quantize Software | Software Engineer
+Developed software using TypeScript, MongoDB, PostgresDB,  React.js, Docker, Kubernetes and the Nest.js Framework, subject to Git version control, CI/CD, static code analysis, TDD, and code reviews.
+Designed and maintained REST API to meet current and future needs and actively contributed to each project delivery phase analysis, development, testing, and ops. Successfully led the development of various applications.
+
+
+Microsoft | Solutions Engineer, Department of Defense &amp; High Government	Remote | May 2022 – October 2022
+Maintained a deep understanding of the software and its functionality, using this knowledge to provide effective solutions to customer problems and questions and developed implementation guidelines for businesses.
+Possessed strong problem-solving skills and a customer-focused mindset, with a passion for helping customers.
+
+Upwork | Software Engineer
+Collaborated with clients to understand their project requirements and translate them into actionable development plans; maintained close relationships with stakeholders and delivered on tight deadlines.
+Developed web applications, sales websites and software tools using modern front-end technologies such as React.js, HTML, CSS, and JavaScript, as well as back-end frameworks such as Django and Flask.
+
+Amazon | Logistics Associate
+Demonstrated expertise in logistics and supply chain management, with a strong understanding of industry best practices and procedures; maintained strict compliance with all local, state and federal laws
+Ensured compliance with all regulatory requirements, including safety regulations and transportation laws and continuously optimized delivery processes to improve efficiency, reduce costs, and enhance customer satisfaction
+
+Amazon | Flex Delivery Partner
+Consistently met or exceeded delivery targets and deadlines while demonstrating exceptional customer service skills, receiving positive feedback from customers and adhering strict deadlines on a daily basis.
+Communicated effectively and professionally with customers, providing regular updates on delivery status and addressing any concerns in a timely manner and proactively identified opportunities to improve delivery processes.
+
+
+Carlie C’s | Inventory Control Specialist
+Responsible for maintaining accurate and up-to-date inventory records, utilizing inventory management software and tools to monitor stock levels, track product movements, coordinate workflows and track team performance.
+Generated reports and analyzes data to provide insights into inventory performance, identifying opportunities for improvement and recommending strategies for optimization to reduce inventory shrink and increase sales volume.
+
+
+
+Colorado State University | B.S. Computer Information Systems | incomplete	Pueblo, CO | August 2017 - May 2021
+
+Library and Academic Resource Center | Technology Engineer	Pueblo, CO | August 2017 - January 2018
+Managed and maintained the university's network, including switches, routers, and firewalls, to ensure optimal performance and security; assisted students and staff with proper utilization of technology.
+Installed, configured, and updated software applications and systems, including anti-virus software and operating systems. Managed and maintained student and facility credentials within Active Directory.
+
+Pueblo County High School | HS Diploma |General Studies	Pueblo, CO | August 2012 - May 2016
+JROTC Leadership, Band Leadership, Boy Scouts of America, Trio Upward Bound
+
+Happy Home Computers | Computer Repair Technician, Apprentice	Pueblo, CO | July 2012 - August 2014
+Acquired IT industry specific knowledge under the direction of Jason Morton, a Retired Member of the United States Army and Current Owner of Happy Home Computers.
+
+Misfits Electronics | Computer Repair Technician, Apprentice	Dickson, TN | June 2009 - March 2012
+Acquired IT industry specific knowledge under the direction of John B. Thompson, a Retired Electrical Engineer for the United States Navy and Current Owner of Misfits Electronics.
+    
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;        
+    }
+    .resume-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET
