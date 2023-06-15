@@ -7,12 +7,12 @@ layout: page
 <div class="project-wrapper">
 {% for project in site.data.projects %}
 <div>
-    <h3>
+    <h2>
     {% if project.url %}
     <a href="{{ project.url }}">{{ project.project }}</a>
     {% else %}
     {{ project.project }}
-    {% endif %}</h3>
+    {% endif %}</h2>
     <p>{{ project.description }}</p>
 </div>
 <br/>
