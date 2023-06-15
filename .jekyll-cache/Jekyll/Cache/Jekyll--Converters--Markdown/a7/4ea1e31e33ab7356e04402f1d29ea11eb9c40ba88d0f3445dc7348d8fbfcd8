@@ -1,0 +1,91 @@
+I"�<div class="about-wrapper">
+<h2 id="-hi-im-joel-glovier-im-a-human-being-human">👋 Hi! I’m Robert Stanford. I’m a human being human.</h2>
+
+<p>I design and build software for humans. I phrase it that way because it’s easy to forget that everyone is human. We often tend to think first in foremost of people in terms of what they do (their job role or profession), or their status as something in our society or culture, or in relationship to us. But everyone is first and foremost, a person.</p>
+
+<p>The software I’ve worked on for most of my career is developer tooling. I recently realized that was my ancestral destiny, but that’s another story <em>(Glovier =&gt; Glover =&gt; Glove-maker =&gt; Glovers were making tools for other craftspeople ages ago)</em>.</p>
+
+<h3 id="my-devtools-journey">My devtools journey</h3>
+
+<p>I’ve worked on code collaboration workflows at <a href="https://blog.github.com/2016-12-07-introducing-review-requests/">GitHub</a>, deployment solutions at <a href="https://www.netlify.com/">Netlify</a>, <a href="/case-studies/appendto/implementing-the-responsive-redesign-of-time-com/">mobile and responsive design</a> at <a href="http://appendto.com/">appendTo</a> as a design engineer, open source projects like <a href="http://hospitalrun.io/">HospitalRun</a>, and most recently I worked on <a href="https://www.apollographql.com/blog/announcement/platform/introducing-the-apollo-explorer/">collaboration tooling</a> for the humans who build GraphQL APIs at <a href="https://www.apollographql.com/">Apollo</a>.</p>
+
+<p>I’m interested in the intersection of humanity and technology, and I’m motivated by advocating for the needs of the real people who are using tools we create within the context of the systems they experience them in.</p>
+
+<p>Often the needs of products, businesses, and industries take the forefront and generate the momentum of change that can be difficult for everyone to keep up with. I care about listening to and advocating for the voices of the people affected by this constant evolution.</p>
+
+<p>For me this takes the form of listening for the emerging narrative that comes from user research, product feedback, and community conversations, and then telling that story as context in the course of product work, from strategy to design to implementation.</p>
+
+<p>I thrive in environments where I can participate in many parts of the process, including user research, low and high fidelity design work, prototyping, and building with the engineering team (something I believe is really important for building user empathy when designing for developers).</p>
+
+<p>And also I am pretty flexibe and can work effectively in many different types of workflows.</p>
+
+<p>I also care a lot about product strategy, and in prior roles (such as at GitHub), I’ve often been the product lead on embedded teams, performing many aspects of the product manager role. So you’ll find I’m often interested to contribute my voice and perspective to product direction.</p>
+
+<p>Prior to my years focused on developer tooling software I was part of a technology at an NGO that runs a global network of charitable children’s hospitals called <a href="http://cure.org/">CURE International</a>.</p>
+
+<h3 id="else">Else</h3>
+
+<p>I enjoy <a href="/writing/">writing</a> about things I learn, <a href="http://github.com/jglovier/speaking">speaking</a> occasionally, and collecting experiences. I also enjoy using <a href="/#projects">side projects</a> to learn new things, hone my skills, and explore design trends.</p>
+
+<p>I’m a Pacific Northwest transplant where I live with my family and enjoy the beauty of nature and an abundance of skateparks. I’m a believer in the power of unconditional love and in honoring the humanity and divinity in all people.</p>
+
+<p>Some things that bring me joy are: painting and drawing, writing, reading (lots of non-fiction, but easing my way into some the world of novels), making music, hiking, playing Overwatch and board games with my kids, <a href="https://www.youtube.com/watch?v=FHG2lUYlUs8">skating</a> &amp; <a href="/post-images/boyceparkrail.jpg">snowboarding</a>, <a href="https://www.youtube.com/watch?v=SUqVSPFgMcw">mural painting</a>, <a href="/post-images/bboy-jag.jpg">breakdancing</a>, <a href="http://joelglovier.com/writing/food/">cooking</a>, exploring Mt. Rainier, seeing the water, and beautiful sunsets. 🌅</p>
+
+<p>Now that you know so much about me, <a href="http://twitter.com/home?status=@jglovier%20Hi%20Joel!">feel free to say hello!</a></p>
+
+<h2 id="site-credits">Site credits</h2>
+
+<p>This site was built with care…and lots of inspiration and tooling made available for free on the internet!</p>
+
+<p>I’d like to take a moment to acknowledge those who have offered their work for the world to benefit from via open source software. Lots of love and gratitude to those responsible for that work. ❤️</p>
+
+<h3 id="build-details-and-tooling">Build details and tooling</h3>
+
+<ul>
+  <li>Built with the static site generator <a href="https://jekyllrb.com/">Jekyll</a>, utilizing the templating language <a href="http://shopify.github.io/liquid/">Liquid</a>, and hosted on <a href="https://www.netlify.com/">Netlify</a>. Source code is available on <a href="https://github.com/jglovier/jglovier.github.io/">GitHub</a>.</li>
+  <li>Originally coded in <a href="https://atom.io/">Atom</a>, now maintained with <a href="https://code.visualstudio.com/">VS Code</a>.</li>
+  <li>Illustrations for this site were drawn with the <a href="https://amzn.to/2G25JTT">Apple iPad Pro</a> and <a href="https://amzn.to/2G5h69G">Apple Pencil</a> using the <a href="https://itunes.apple.com/us/app/procreate/id425073498?mt=8">ProCreate</a> app.</li>
+  <li>Typography courtesy of Google Fonts:
+    <ul>
+      <li><a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a> (headings)</li>
+      <li><a href="https://fonts.google.com/specimen/Varela+Round">Varela Round</a> (short body copy)</li>
+      <li><a href="https://typekit.com/fonts/rooney-sans">Rooney Sans</a> (long form body copy)</li>
+      <li><a href="https://fonts.google.com/specimen/Lora">Lora</a> (where serif is used)</li>
+    </ul>
+  </li>
+  <li><a href="https://creativemarket.com/gedy/21158-Vector-Social-Media-Icons-Bundle">Social media icons</a> by <a href="https://creativemarket.com/gedy">Gedy Leon</a></li>
+  <li><a href="http://basscss.com/">Basscss</a> utility classes by <a href="http://jxnblk.com/">Jxnblk</a></li>
+</ul>
+
+<h3 id="prior-art">Prior art</h3>
+
+<ul>
+  <li>Illustration inspiration from:
+    <ul>
+      <li><a href="https://dribbble.com/megdraws">Megdraws</a></li>
+      <li><a href="https://dribbble.com/asana">Asana</a></li>
+      <li><a href="https://dribbble.com/dropbox">Dropbox</a></li>
+      <li><a href="https://dribbble.com/playnice/buckets/610835-Blobs">etc</a></li>
+    </ul>
+  </li>
+  &lt;/li&gt;
+</ul>
+
+<h3 id="etc">Etc</h3>
+
+<ul>
+  <li><a href="https://github.com/jglovier/jglovier.github.io/pull/70">Feedback</a> from <a href="https://dribbble.com/emrichard">friends</a> and friendly folks on GitHub</li>
+</ul>
+
+</div>
+
+<style>
+    .about-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET
