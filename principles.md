@@ -3,6 +3,7 @@ title: Principles
 permalink: /principles/
 layout: page
 ---
+
 <div class="principles-wrapper">
 
 </div>
@@ -14,4 +15,3 @@ layout: page
         align-items: center;
         flex-direction: column;
     }
-

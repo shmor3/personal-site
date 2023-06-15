@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="about-wrapper">
-
+  
 </div>
 
 <style>

@@ -1,0 +1,95 @@
+I"�<div class="principles-wrapper">
+<p>I’ve had the opportunity to work with lots of very smart people in a range of organizational contexts on some really incredible projects. I’ve learned a lot from each of these experiences that have profoundly shaped how I think about my work.</p>
+
+<p>These principles represent some of the lessons I’ve learned:
+
+<h2 id="collaborating-with-others">Collaborating with others</h2>
+<ul>
+  <li>Favor unblocking over blocking. If a decision can be made or action taken that unblocks, default to that option over remaining blocked.</li>
+  <li>Respect is deserved, trust is assumed. Both are reciprocal.</li>
+</ul>
+
+<h3 id="communication">Communication</h3>
+<ul>
+  <li>In writing be clear and concise. Aim for the least amount of words necessary to clearly communicate context and response.</li>
+  <li>Ask as many questions as necessary to understand.</li>
+  <li>If something is unclear, ask for explicit clarification.</li>
+  <li>Continue communication as much as is needed until everyone is on the same page.</li>
+  <li>Don’t get stuck on things that can’t be resolved. Park discussion items that are blocking and revisit when more data presents for consideration, or when an action can be taken.</li>
+  <li>Document discussions and outcomes.</li>
+</ul>
+
+<h2 id="design">Design</h2>
+<ul>
+  <li>The first thing that has to come before any meaningful design work is a conversation about the goals that work needs to accomplish. Break the problem wide open at the beginning.</li>
+  <li>Start the design process with opportunity sketches in low fidelity to show what a solution could be like apart from UI treatments and hi fidelity comps; this is important because in discussing solutions with others, they need to understand the concept being discussed and not get distracted by completed looking designs.</li>
+  <li>Presentation is really important; sell the idea; sell the experience; from concept, to prototype, to final execution; make it feel like the entire experience has been considered; that will help people experiencing your design or product to feel more confident in it.</li>
+</ul>
+
+<h3 id="product-design">Product design</h3>
+<ul>
+  <li>Guide product users toward accomplishing their objectives. <em>(see also <a href="https://strategyn.com/customer-centered-innovation-map/">Jobs To Be Done</a> framework)</em></li>
+  <li>Identify core objectives, map out the workflows that are required to accomplish those objectives, and relentlessly remove friction from those workflows.</li>
+  <li>Don’t lead people to dead ends. Workflows should always lead to the next place you want to go (i.e. to your next logical task).</li>
+  <li>Don’t leave people wondering what to do (i.e. making them think).</li>
+  <li>A good experience works well across whatever device or screen size the user is on.</li>
+  <li>A good experience is fast (performant) because users don’t wait.</li>
+  <li>Favor leveraging familiar trends and conventions rather than introducing confusing new paradigms.</li>
+  <li>Keep workflows shallow and simple. <em>(i.e. avoid long and complex workflows)</em></li>
+  <li>Unique parts of a product should look distinct from other parts.</li>
+</ul>
+
+<h2 id="leadership">Leadership</h2>
+<ul>
+  <li>Empowering others to make decisions and take action is critical to team success.</li>
+  <li>Commit clearly and intentionally.</li>
+  <li>Set the example by what you do.</li>
+  <li>Aim to close loose ends. You are responsible for momentum.</li>
+  <li>Identify blockers and take responsibility to remove them.</li>
+  <li>Leadership is not management, and it does not require authority. It’s not an organizational role, it’s how you work.</li>
+</ul>
+
+<h3 id="management">Management</h3>
+
+<ul>
+  <li>Be great at following up.</li>
+  <li>Be consistent in what you say.</li>
+  <li>Be consistent in what you do based on what you’ve said.</li>
+  <li>Be explicit about expectations.</li>
+  <li>Tell why, not just what.</li>
+  <li>Invite others to be stakeholders and empower them to take ownership.</li>
+  <li>Don’t tell people what to do and what not to do.
+    <ul>
+      <li>Good managers empower people to do what they want to do, and seek to understand why people want to do the things they don’t think they should be doing.</li>
+    </ul>
+  </li>
+  <li>Be flexible and always lean in the direction that favors unblocking, empowering, iteration, and exploration –&nbsp;except in critical outcome situations, where you should lean in the direction of wisdom and away from unreasonable risk.</li>
+  <li>Listen to your team and be open to their perspectives. They need that space, and you need their perspectives.</li>
+  <li>Help your team achieve their goals. Be their biggest champion in the organization.</li>
+  <li>Advocate for people. That’s part of the job.
+    <ul>
+      <li>As a manager you should be your teams biggest advocate; Promoting their work and brag on them constantly, both for the benefit of your team’s morale and self-esteem, and for the benefit of letting the rest of your organization know what impact your team is having, and what they are doing that the rest of the organization should know about.</li>
+    </ul>
+  </li>
+  <li>Shoot straight with people. It’s far more helpful than trying to preserve feelings. But don’t be an asshole. You can be both kind and considerate, and forthright and honest.</li>
+  <li>If you are prepared to criticize something, be prepared to offer a solution. If you don’t have a solution, ask a helpful question. Sometimes asking the right question is better than proposing a solution.</li>
+  <li>When massive change happens, people lose vision and context; it’s really important to help people feel like their work is not being stalled and can still move forward; when context disappears or the environment changes, you need to set a new vision and context as quickly as possible to reduce the entropy that naturally occurs.</li>
+</ul>
+
+<h3 id="teaching-mentorship-and-coaching">Teaching, mentorship, and coaching</h3>
+<ul>
+  <li>If a team member takes the initiative to ask you what they can do to support you, or the team, or go above and beyond their responsibilities to be a leader, don’t just tell them to keep doing a good job, or their basic responsibilities. Give them a vision for what it looks like to be a leader, and tangible things they can do to practice and perform that way in your current team environment.</li>
+  <li>When possible, lead others to conclusions they can make for themselves. Hold space for their learning process.</li>
+</ul>
+
+&lt;/div&gt;
+
+<style>
+    .principles-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style></p></div>
+:ET

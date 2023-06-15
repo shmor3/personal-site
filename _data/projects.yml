@@ -1,13 +1,13 @@
 - project: Personal Website
-  url: /pesonal-site/
+  url: https://github.com/shmor3/personal-site
   description: rstanford.com
 
 - project: Algotrading
-  url: /auto-trading/
+  url: https://github.com/shmor3/algotrading
   description: Auto trading with python and redis
 
 - project: Flask form API
-  url: /simple-flask-form-backend/
+  url: https://github.com/shmor3/simple-flask-form-backend
   description: Simple flask backend for handling form submissions
 
 - project: Python Proxy
