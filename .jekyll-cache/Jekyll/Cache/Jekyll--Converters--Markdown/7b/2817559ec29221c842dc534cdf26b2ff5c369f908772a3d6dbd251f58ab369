@@ -1,0 +1,121 @@
+I"u	<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h4>Software Engineer  &bull; August 2022 - Present</h4>
+    <p><span />- Developed software using TypeScript, MongoDB, ReactJS, and the Nest.js Framework.<br />- Created Custom Nest.js middleware to streamline backend workflows.<br /> - Development subject to Git version control, CI/CD, static code analysis, TDD, and code reviews.<br /> - Designed and maintained REST API to meet current and future needs.<br /> - Delivered new features in both Agile and SDLC with the Atlassian tool set.<br /> - Actively contribution to each project delivery phase analysis, development, testing, and ops.</p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://www.microsoft.com/en-us/microsoft-365/government">Microsoft</a>
+    </h3>
+    <h4>Solutions Engineer  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://www.microsoft.com/en-us/microsoft-365">Microsoft</a>
+    </h3>
+    <h4>Software Support Engineer  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://www.upwork.com/">Upwork</a>
+    </h3>
+    <h4>Software Engineer  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://logistics.amazon.com/">Amazon</a>
+    </h3>
+    <h4>Logistics Associate  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://flex.amazon.com/">Amazon</a>
+    </h3>
+    <h4>Flex Partner  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://www.carliecs.com/">Carlie C's IGA</a>
+    </h3>
+    <h4>Inventory Control Specialist  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    <a href="https://www.csupueblo.edu/">Colorado State University</a>
+    </h3>
+    <h4>Information Technology Engineer  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Happy Home Computers
+    </h3>
+    <h4>Computer Repair Technician  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Misfits Electronics
+    </h3>
+    <h4>Computer Repair Technician  &bull; </h4>
+    <p></p>
+</div>
+<br />
+
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+
+:ET

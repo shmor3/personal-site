@@ -2,6 +2,14 @@
   url: /
   external: false
 
+- title: Blog
+  url: /blog
+  external: false
+
+# - title: About
+#   url: /about
+#   external: false 
+
 # - title: Principles
 #   url: /principles
 #   external: false
@@ -10,17 +18,9 @@
 #   url: /process
 #   external: false
 
-# - title: Projects
-#   url: /projects
-#   external: false
-
-- title: Blog
-  url: /blog
+- title: Projects
+  url: /projects
   external: false
-
-# - title: About
-#   url: /about
-#   external: false 
 
 - title: Work
   url: /work

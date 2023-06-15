@@ -1,0 +1,85 @@
+I"f<div class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+    
+        <div class="work-item">
+            <img class="logo" src="../media/quantizesoftware-logo.png" />
+            <h2><a href="https://quantizesoftware.io">Quantize Software</a>&lt;/h3&gt;
+            <h5>Software Engineer  &bull; August 2022 - Present</h5>
+            
+            <br />
+            <a href="https://rstanford.com/quantizesoftware"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/microsoft-logo.png" />
+            <h2><a href="https://www.microsoft.com/en-us/microsoft-365/government">Microsoft</a>&lt;/h3&gt;
+            <h5>Solutions Engineer  &bull; June 2022 - August 2022</h5>
+            
+            <h5>Software Support Engineer  &bull; May 2022 - June 2022</h5>
+            
+            <br />
+            <a href="https://rstanford.com/microsoft"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/upwork_logo_icon_170310.png" />
+            <h2><a href="https://www.upwork.com/">Upwork</a>&lt;/h3&gt;
+            <h5>Software Engineer  &bull; June 2021 - May 2022</h5>
+            
+            <br />
+            <a href="https://rstanford.com/upwork"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/amazon-logo.png" />
+            <h2><a href="https://logistics.amazon.com/">Amazon</a>&lt;/h3&gt;
+            <h5>Logistics Associate  &bull; September 2021 - Feburary 2022</h5>
+            
+            <h5>Flex Partner  &bull; March 2020 - September 2021</h5>
+            
+            <br />
+            <a href="https://rstanford.com/amazon"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/carliecs-logo.png" />
+            <h2><a href="https://www.carliecs.com/">Carlie C's IGA</a>&lt;/h3&gt;
+            <h5>Inventory Control Team Lead  &bull; Janurary 2020 - April 2020</h5>
+            
+            <h5>Inventory Control Specialist  &bull; May 2018 - Janurary 2020</h5>
+            
+            <br />
+            <a href="https://rstanford.com/carliecs"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/csup-logo.png" />
+            <h2><a href="https://www.csupueblo.edu/">Colorado State University - Pueblo</a>&lt;/h3&gt;
+            <h5>Information Technology Engineer  &bull; August 2017 - Janurary 2018</h5>
+            
+            <br />
+            <a href="https://rstanford.com/csupueblo"> View Case Study</a>
+        &lt;/div&gt;<br />
+    
+&lt;/div&gt;
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+    .logo {
+        width: 7rem;
+        float: left;
+        margin: 1.5rem 2rem 10rem 2rem;
+        }
+</style>
+</h2></div></h2></div></h2></div></h2></div></h2></div></h2></div></div>
+:ET

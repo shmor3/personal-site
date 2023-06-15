@@ -1,0 +1,77 @@
+I"k<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h4>Software Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Microsoft</a>
+    </h3>
+    <h4>GCCH-DoD Solutions Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Upwork</a>
+    </h3>
+    <h4>Freelance Software Engineer  &bull; May 2022 - Present</h4>
+    <p></p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Amazon</a>
+    </h3>
+    <h4>Logistics  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h4>Software Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h4>Software Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

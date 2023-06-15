@@ -1,0 +1,24 @@
+I"z<div class="project-wrapper">
+
+<div>
+    <h3>
+    
+    <a href="https://rstanford.com/pesonal-site/">rstanford.com</a>
+    </h3>
+    <h4>Web Developer  &bull; April 2022 - Present</h4>
+    <p></p>
+</div>
+
+
+</div>
+
+<style>
+    .project-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

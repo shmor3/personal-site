@@ -1,0 +1,121 @@
+I"Í<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+
+
+<div>
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h4>Software Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Microsoft
+    </h3>
+    <h4>Solutions Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Microsoft
+    </h3>
+    <h4>Software Support Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Upwork
+    </h3>
+    <h4>Software Engineer  &bull; May 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Amazon
+    </h3>
+    <h4>Logistics Associate  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Amazon
+    </h3>
+    <h4>Flex Partner  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Carlie C's
+    </h3>
+    <h4>Inventory Control Specialist  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    
+    </h3>
+    <h4>Colorado State UniversityInformation Technology Engineer  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Happy Home Computers
+    </h3>
+    <h4>Computer Repair Technician  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+<div>
+    <h3>
+    
+    Misfits Electronics
+    </h3>
+    <h4>Computer Repair Technician  &bull; August 2022 - Present</h4>
+    <p></p>
+</div>
+<br />
+
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+
+:ET
