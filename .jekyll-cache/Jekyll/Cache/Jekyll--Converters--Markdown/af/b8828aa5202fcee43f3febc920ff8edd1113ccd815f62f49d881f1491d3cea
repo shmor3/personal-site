@@ -1,0 +1,120 @@
+I"É<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://quantizesoftware.io">Quantize Software</a>
+    </h3>
+    <h5>Software Engineer  &bull; August 2022 - Present</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://www.microsoft.com/en-us/microsoft-365/government">Microsoft</a>
+    </h3>
+    <h5>Solutions Engineer  &bull; May 2022 - August 2022</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://www.upwork.com/">Upwork</a>
+    </h3>
+    <h5>Software Engineer  &bull; June 2021 - May 2022</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://logistics.amazon.com/">Amazon</a>
+    </h3>
+    <h5>Logistics Associate  &bull; March 2020 - Feburary 2022</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://www.carliecs.com/">Carlie C's IGA</a>
+    </h3>
+    <h5>Inventory Control Specialist  &bull; May 2018 - April 2020</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+<div>
+    
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"><img class="logo" src="https://avatars.githubusercontent.com/u/44666181?v=4" /></a>
+    
+    <h3>
+    
+    <a href="https://www.csupueblo.edu/">Colorado State University</a>
+    </h3>
+    <h5>Information Technology Engineer  &bull; August 2017 - Janurary 2018</h5>
+    
+    <br />
+    <a href="https://avatars.githubusercontent.com/u/44666181?v=4"> View Case Study</a>
+    
+</div>
+<br />
+
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+    .logo {
+        width: 5rem;
+        }
+</style>
+
+:ET

@@ -1,0 +1,22 @@
+I"<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+<h2>Robert Stanford</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="resume-wrapper"&gt;
+</code></pre></div></div>
+
+<p>&lt;/div&gt;</p>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .resume-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

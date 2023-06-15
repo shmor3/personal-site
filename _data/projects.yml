@@ -1,6 +1,15 @@
-# Exmaple:
-# - project:
-#   role:
-#   duration:
-#   url:
-#   description:
+- project: Personal Website
+  url: /pesonal-site/
+  description: rstanford.com
+
+- project: Algotrading
+  url: /auto-trading/
+  description: Auto trading with python and redis
+
+- project: Flask form API
+  url: /simple-flask-form-backend/
+  description: Simple flask backend for handling form submissions
+
+- project: Python Proxy
+  url: /python_proxy/
+  description: Simple proxy written in python

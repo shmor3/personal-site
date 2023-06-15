@@ -1,0 +1,51 @@
+I"Ù<div class="project-wrapper">
+
+<div>
+    <h3>
+    
+    <a href="https://rstanford.com/pesonal-site/">Personal Website</a>
+    </h3>
+    <h4>Web Developer  &bull; April 2022 - Present</h4>
+    <p>rstanford.com</p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://rstanford.com/auto-trading/">Auto trading with python and redis</a>
+    </h3>
+    <h4>Web Developer  &bull; October 2022 - November -</h4>
+    <p>algotrading</p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://rstanford.com/pesonal-site/">Personal Website</a>
+    </h3>
+    <h4>Web Developer  &bull; April 2022 - Present</h4>
+    <p>rstanford.com</p>
+</div>
+
+<div>
+    <h3>
+    
+    <a href="https://rstanford.com/pesonal-site/">Personal Website</a>
+    </h3>
+    <h4>Web Developer  &bull; April 2022 - Present</h4>
+    <p>rstanford.com</p>
+</div>
+
+
+</div>
+
+<style>
+    .project-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

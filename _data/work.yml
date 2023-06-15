@@ -1,0 +1,47 @@
+- company: Quantize Software
+  role: Software Engineer
+  duration: August 2022 - Present
+  url: https://quantizesoftware.io
+  case-study: /quantizesoftware
+  logo: ../media/quantizesoftware-logo.png
+
+- company: Microsoft
+  role: Solutions Engineer
+  duration: June 2022 - August 2022
+  role-1: Software Support Engineer
+  duration-1: May 2022 - June 2022
+  url: https://www.microsoft.com/en-us/microsoft-365/government
+  case-study: /microsoft
+  logo: ../media/microsoft-logo.png
+
+- company: Upwork
+  role: Software Engineer
+  duration: June 2021 - May 2022
+  url: https://www.upwork.com/
+  case-study: /upwork
+  logo: ../media/upwork_logo_icon_170310.png
+
+- company: Amazon
+  role: Logistics Associate
+  duration: September 2021 - Feburary 2022
+  role-1: Flex Partner
+  duration-1: March 2020 - September 2021
+  url: https://logistics.amazon.com/
+  case-study: /amazon
+  logo: ../media/amazon-logo.png
+
+- company: Carlie C's IGA
+  role: Inventory Control Team Lead
+  duration: Janurary 2020 - April 2020
+  role-1: Inventory Control Specialist
+  duration-1: May 2018 - Janurary 2020
+  url: https://www.carliecs.com/
+  case-study: /carliecs
+  logo: ../media/carliecs-logo.png
+
+- company: Colorado State University - Pueblo
+  role: Information Technology Engineer
+  duration: August 2017 - Janurary 2018 
+  url: https://www.csupueblo.edu/
+  case-study: /csupueblo
+  logo: ../media/csup-logo.png

@@ -1,0 +1,23 @@
+I"f<div style="text-align: right;" class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+
+<div class="work-wrapper">
+
+
+
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+:ET

@@ -4,7 +4,7 @@ permalink: /projects/
 layout: page
 ---
 
-<div class="projects-wrapper">
+<div class="project-wrapper">
 {% for project in site.data.projects %}
 <div>
     <h3>
@@ -13,18 +13,16 @@ layout: page
     {% else %}
     {{ project.project }}
     {% endif %}</h3>
-    <h4>{{ project.role }}  &bull; {{ project.duration }}</h4>
     <p>{{ project.description }}</p>
 </div>
+<br/>
 {% endfor %}
 
 </div>
 
 <style>
-    .projects-wrapper {
+    .project-wrapper {
         display: flex;
-        justify-content: center;
-        align-items: center;
         flex-direction: column;
     }
 </style>
