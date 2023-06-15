@@ -15,8 +15,8 @@ author:
   github: shmor3 # github username
   twitter: robertandstuff_ # twitter username
   facebook: robertandstuff # facebook username
-  email: contact@rstanford.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: contact@rstanford.com # email address
+  avatar: /assets/img/ogp.png # change with your own avatar
 
 # URL settings
 url: "https://rstanford.com" #

@@ -1,0 +1,49 @@
+I"<div class="project-wrapper">
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/personal-site">Personal Website</a>
+    </h2>
+    <p>rstanford.com</p>
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/algotrading">Algotrading</a>
+    </h2>
+    <p>Auto trading with python and redis</p>
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/simple-flask-form-backend">Flask form API</a>
+    </h2>
+    <p>Simple flask backend for handling form submissions</p>
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="/python_proxy/">Python Proxy</a>
+    </h2>
+    <p>Simple proxy written in python</p>
+</div>
+<br />
+
+
+</div>
+
+<style>
+    .project-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+
+:ET
