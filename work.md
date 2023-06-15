@@ -18,7 +18,7 @@ layout: page
             <h5>{{ work.role-1 }}  &bull; {{ work.duration-1 }}</h5>
             {% endif %}
             <div class="case-study">
-            <a href="{{ work.case-study }}"> View Case Study</a>
+            <a href="{{ work.learn-more }}">Learn More</a>
         </div>
         </div><br/>
     {% endfor %}
