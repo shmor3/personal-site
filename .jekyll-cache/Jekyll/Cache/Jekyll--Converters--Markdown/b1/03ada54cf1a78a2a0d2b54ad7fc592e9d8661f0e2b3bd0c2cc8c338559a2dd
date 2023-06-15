@@ -1,0 +1,101 @@
+I"�<div class="pdf-resume">
+    <a href="/work/resume">View PDF Version</a>
+</div>
+<p>&lt;div id=”search “class=”search-article”&gt;
+    <label for="search-input" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    </label>
+    <input type="search" id="search-input" placeholder="Search blog" aria-label="Search" />
+&lt;/div&gt;</p>
+<ul id="search-results"></ul>
+
+<div class="work-wrapper">
+    
+        <div class="work-item">
+            <img class="logo" src="../media/quantizesoftware-logo.png" />
+            <h2><a href="https://quantizesoftware.io">Quantize Software</a></h2>
+            <h5>Software Engineer  &bull; August 2022 - Present</h5>
+            
+            <div class="case-study">
+            <a href="/quantizesoftware"> View Case Study</a>
+        </div>
+        </div><br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/microsoft-logo.png" />
+            <h2><a href="https://www.microsoft.com/en-us/microsoft-365/government">Microsoft</a></h2>
+            <h5>Solutions Engineer  &bull; June 2022 - August 2022</h5>
+            
+            <h5>Software Support Engineer  &bull; May 2022 - June 2022</h5>
+            
+            <div class="case-study">
+            <a href="/microsoft"> View Case Study</a>
+        </div>
+        </div><br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/upwork_logo_icon_170310.png" />
+            <h2><a href="https://www.upwork.com/">Upwork</a></h2>
+            <h5>Software Engineer  &bull; June 2021 - May 2022</h5>
+            
+            <div class="case-study">
+            <a href="/upwork"> View Case Study</a>
+        </div>
+        </div><br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/amazon-logo.png" />
+            <h2><a href="https://logistics.amazon.com/">Amazon</a></h2>
+            <h5>Logistics Associate  &bull; September 2021 - Feburary 2022</h5>
+            
+            <h5>Flex Partner  &bull; March 2020 - September 2021</h5>
+            
+            <div class="case-study">
+            <a href="/amazon"> View Case Study</a>
+        </div>
+        </div><br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/carliecs-logo.png" />
+            <h2><a href="https://www.carliecs.com/">Carlie C's IGA</a></h2>
+            <h5>Inventory Control Team Lead  &bull; Janurary 2020 - April 2020</h5>
+            
+            <h5>Inventory Control Specialist  &bull; May 2018 - Janurary 2020</h5>
+            
+            <div class="case-study">
+            <a href="/carliecs"> View Case Study</a>
+        </div>
+        </div><br />
+    
+        <div class="work-item">
+            <img class="logo" src="../media/csup-logo.png" />
+            <h2><a href="https://www.csupueblo.edu/">Colorado State University - Pueblo</a></h2>
+            <h5>Information Technology Engineer  &bull; August 2017 - Janurary 2018</h5>
+            
+            <div class="case-study">
+            <a href="/csupueblo"> View Case Study</a>
+        </div>
+        </div><br />
+    
+</div>
+
+<style>
+    .pdf-resume {
+        text-align: right;
+    }
+    .work-wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+    .logo {
+        width: 7rem;
+        float: left;
+        margin: 1.5rem 2rem 10rem 2rem;
+        }
+    .case-study {
+        margin-top: 1rem;
+    }
+</style>
+
+:ET
