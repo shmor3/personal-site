@@ -1,0 +1,87 @@
+I"Ù<div class="project-wrapper">
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/simple-banking-with-go">Simple Banking with Go</a>
+    </h2>
+    <p>simple banking app written in Go</p>
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/personal-site">Personal Website</a>
+    </h2>
+    <p>rstanford.com</p>
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/algotrading">Auto Trading</a>
+    </h2>
+    <p>Auto trading with python and redis</p>
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/simple-flask-form-backend">Flask Form API</a>
+    </h2>
+    <p>Simple flask backend for handling form submissions</p>
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://gist.github.com/shmor3/4ba722ae472ea6b9a177145ded537aba">Python Proxy</a>
+    </h2>
+    <p>Simple proxy written in python</p>
+    
+    &lt;a href="/python-proxy/&lt;/p&gt;
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://gist.github.com/shmor3/6b35f2adf093976835d1a0b06cf6e2a8">Python Autoclicker</a>
+    </h2>
+    <p>Simple Auto Clicker built with Python</p>
+    
+    &lt;a href="/auto-clicker/&lt;/p&gt;
+    
+</div>
+<br />
+
+<div>
+    <h2>
+    
+    <a href="https://github.com/shmor3/datawarehouse/tree/main">Data Warehouse</a>
+    </h2>
+    <p>Data warehouse deployed with Docker</p>
+    
+</div>
+<br />
+
+
+</div>
+
+<style>
+    .project-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+
+:ET

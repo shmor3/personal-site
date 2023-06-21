@@ -14,6 +14,9 @@ layout: page
     {{ project.project }}
     {% endif %}</h2>
     <p>{{ project.description }}</p>
+    {% if project.post %}
+    <a href="{{ project.post }}">View Post</a>
+    {% endif %}
 </div>
 <br/>
 {% endfor %}
