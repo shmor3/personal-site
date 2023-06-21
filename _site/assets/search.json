@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "Simple Auto Clicker written in Python",
+      "description" : "",
+      "tags"     : "software development, python",
+      "url"      : "/python-auto-clicker/",
+      "date"     : "2022-11-03 00:34:00 +0000"
+    } ,
+  
+    {
       "title"    : "Simple proxy written in python",
       "description" : "",
       "tags"     : "software development, python",
-      "url"      : "/python_proxy/",
+      "url"      : "/python-proxy/",
       "date"     : "2022-10-14 02:29:00 +0000"
     } 
   

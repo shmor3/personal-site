@@ -1,15 +1,34 @@
+- project: Simple Banking with Go
+  url: https://github.com/shmor3/simple-banking-with-go
+  description: simple banking app written in Go
+  post: 
+
 - project: Personal Website
   url: https://github.com/shmor3/personal-site
   description: rstanford.com
+  post: 
 
-- project: Algotrading
+- project: Auto Trading
   url: https://github.com/shmor3/algotrading
   description: Auto trading with python and redis
+  post: 
 
-- project: Flask form API
+- project: Flask Form API
   url: https://github.com/shmor3/simple-flask-form-backend
   description: Simple flask backend for handling form submissions
+  post: 
 
 - project: Python Proxy
-  url: /python_proxy/
+  url: https://gist.github.com/shmor3/4ba722ae472ea6b9a177145ded537aba
   description: Simple proxy written in python
+  post: /python-proxy/
+
+- project: Python Autoclicker
+  url: https://gist.github.com/shmor3/6b35f2adf093976835d1a0b06cf6e2a8
+  description: Simple Auto Clicker built with Python
+  post: /auto-clicker/
+
+- project: Data Warehouse
+  url: https://github.com/shmor3/datawarehouse/tree/main
+  description: Data warehouse deployed with Docker
+  post: 
